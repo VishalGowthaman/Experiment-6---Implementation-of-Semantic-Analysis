@@ -22,10 +22,6 @@ Construct a Python program to read a text from a file. Identify the verbs from t
 6. Execute the main program.
 
 ## PROGRAM
-```
-Developed By: VISHAL GOWTHAMAN K R
-## REG NO: 212221230123
-```
 ```python
 import nltk
 from nltk.corpus import wordnet
